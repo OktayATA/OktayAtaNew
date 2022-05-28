@@ -1,0 +1,29 @@
+/* =================================================================== */
+/* Purple:#8315e7
+====================================================================== */
+/* color */
+a,.back-to-top:hover i,#header .social-links a:hover,.navbar a:hover,
+.navbar .active,
+.navbar .active i,
+.navbar .active:focus,
+.navbar li:hover>a,.mobile-nav-toggle,.navbar-mobile a:hover,
+.navbar-mobile .active,
+.navbar-mobile li:hover>a,.hero-box span,.hero-box .btn-scroll:hover,.section-title h2,.about .content ul i,.resume .resume-item h4,.services .icon i,.services .icon-box:hover .title a,.testimonials .testimonial-item .quote-icon-left,
+.testimonials .testimonial-item .quote-icon-right,.pricing h4,.pricing ul i,.contact .info-box i.fas,#footer .social-links a:hover,.portfolio .portfolio-item .portfolio-info .preview-link:hover,
+.portfolio .portfolio-item .portfolio-info .details-link:hover,.down-content h4:hover{
+    color:#8315e7;
+}
+/* background color */
+.cursor-inner.cursor-hover,.cursor-inner,.testimonials .swiper-pagination .swiper-pagination-bullet-active,.about .skills-content .progress-bar,.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active,ul.page-numbers li.active a{
+    background-color:#8315e7;
+}
+
+/* background */
+.switch,.back-to-top,#header .social-links a,.portfolio #portfolio-flters li,.pricing .btn-buy,.pricing .advanced,.contact .social-links a:hover, .email-form button[type=submit],#footer .social-links a,.background,.style-switch-wrapper .purchse-btn{
+    background:#8315e7;
+} 
+
+/* border-color */
+#header .profile h1,.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet,.portfolio-details .portfolio-info h3,.email-form button[type=submit],.pricing .btn-buy:hover,.pricing .btn-buy,.portfolio #portfolio-flters li,.cursor-outer,.services .icon-box:hover,ul.page-numbers li.active a,ul.page-numbers li a,.style-switch-wrapper .purchse-btn{
+    border-color: #8315e7;
+}
